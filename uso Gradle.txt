@@ -1,0 +1,7 @@
+gradelw desktop:run
+gradelw desktop:dist
+
+web
+
+gradelw html:superDev
+http://localhost:8080/html
